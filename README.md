@@ -1,4 +1,6 @@
 # Database-Design-for-a-Nursing-Home
+Pdf file is in italian.
+
 In this project: 
 
 Requirements Gathering and Analysis, Structural Requirements, Operational Requirements
