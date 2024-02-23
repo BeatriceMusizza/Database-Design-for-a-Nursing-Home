@@ -1,5 +1,4 @@
 # Database-Design-for-a-Nursing-Home
-Pdf file is in italian.
 
 In this project: 
 
@@ -8,3 +7,5 @@ In this project:
 - Conceptual Design (**Construction of Entity-Relationship Schemas**), Logical Design
 
 - **SQL Implementation**: Table Creation and Population**, Implementation of interesting queries (in the .sql file)
+
+The .pdf file is in italian.
